@@ -89,6 +89,7 @@ public class CharacterController2D : MonoBehaviour {
 		// determine horizontal velocity change based on the horizontal input
 		_vx = Input.GetAxisRaw ("Horizontal");
 
+
 		// Determine if running based on the horizontal movement
 		if (_vx != 0) 
 		{

@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\PlatformMover.cs" />
      <Compile Include="Assets\Scripts\PlayerPrefManager.cs" />
      <Compile Include="Assets\Scripts\ScreenshotUtility.cs" />
+     <Compile Include="Assets\Scripts\SimplePlatformMover.cs" />
      <Compile Include="Assets\Scripts\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Scripts\Victory.cs" />
  <Reference Include="UnityEngine.UI">
